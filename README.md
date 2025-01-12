@@ -5,7 +5,7 @@ A web application that allows users to search for recipes and access detailed in
 ## Features  
 - **Recipe Search**: Easily search for recipes by name or ingredient.  
 - **Detailed Information**: View comprehensive details about each recipe, including ingredients, instructions, and nutritional facts.  
-- **User-Friendly Design**: Built with React.js and styled components for a clean and interactive interface.  
+- **User-Friendly Design**: Built with React.js and FantaCSS for a clean and interactive interface.  
 
 ## Live Demo  
 The application is live and available at: [spandanrecipefinder.netlify.app](https://spandanrecipefinder.netlify.app)  
